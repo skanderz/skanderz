@@ -2,11 +2,7 @@
 <h3 align="center">👨‍💻 Full Stack Developer 👨‍💻</h3>
 
 
-- 🔭 I’m currently working on my **MERN stack project**
-- 📫 How to reach me : **<a href="https://www.linkedin.com/in/zouari-skander"><U>LinkedIn Profile</U></a>**
--  <img src="https://www.codewars.com/users/skanderz/badges/micro" alt="skanderz"/> : **<a href="https://www.codewars.com/users/skanderz"> CodeWars Profile </a>**   
-- <h3> Social Media : <a href="https://fb.com/https://www.facebook.com/zouari.skander7/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="20" width="30" /></a><a href="https://instagram.com/https://www.instagram.com/skander.zouarii/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" width="30" /></a>
-</h3>
+- 📫 How to reach me : **<a href="https://www.linkedin.com/in/zouari-skander"><U>LinkedIn Profile</U></a>**  
 <hr>
 
 
